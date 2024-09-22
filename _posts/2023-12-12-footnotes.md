@@ -1,5 +1,5 @@
 ---
-title: Using Footnotes
+title: (샘플) 각주 넣기
 author: Tao He
 date: 2023-12-12
 category: Jekyll
