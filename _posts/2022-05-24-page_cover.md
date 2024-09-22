@@ -1,6 +1,6 @@
 ---
-title: Page with cover image
-author: Tao He
+title: (샘플) 상단 커버 이미지
+author: tester
 date: 2022-05-24
 category: Jekyll
 layout: post
