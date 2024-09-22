@@ -1,5 +1,5 @@
 ---
-title: Tips, Warnings, and Dangers
+title: (샘플) Tips, Warnings, and Dangers 섹션 넣기
 author: Tao He
 date: 2022-06-30
 category: Jekyll
