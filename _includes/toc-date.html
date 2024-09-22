@@ -25,7 +25,7 @@
 
     <nav role="navigation">
         <div id="book-search-input" role="search">
-            <input type="text" placeholder="Type to search" />
+            <input type="text" placeholder="Type to 검색" />
         </div>
         <div id="book-search-input-link" role="search">
             <a href="{{site.baseurl}}/assets/search.html">Click to Search</a>
@@ -37,7 +37,7 @@
             <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}">
             {% endif %}
                 <a href="{{site.baseurl}}/" onclick="pageScrollToTop(this)">
-                    {{ site.title | escape }}
+                    {{ site.title | escape }} 타이틀 여기
                 </a>
                 {% if site.toc.enabled %}
                     {% if site.toc.enabled_index %}
@@ -46,6 +46,7 @@
                 {% endif %}
             </li>
 
+            <li class="divider"></li>
             <li class="divider"></li>
 
             {% if site.ordered_collections %}
@@ -77,7 +78,7 @@
                         {% endfor %}
 
                         {% if reversed_posts.size > 0 %}
-                            <li class="divider"></li>
+                            <li class="divider">포스트와 페이지 사이쯤</li>
                         {% endif %}
                     {% endif %}
                 {% endfor %}
