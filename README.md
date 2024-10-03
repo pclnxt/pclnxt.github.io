@@ -2,10 +2,12 @@
 layout: home
 title: Jekyll Gitbook Theme
 permalink: /
-cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
+cover: https://pclnxt.github.io/jekyll-gitbook/assets/twilight_years_banner_cut.png
 ---
 
 Make Jelly site have a GitBook look!
+
+cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 
 ## Demo
 
