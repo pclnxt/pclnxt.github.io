@@ -5,56 +5,51 @@ permalink: /
 cover: https://pclnxt.github.io/assets/twilight_years_top_trim_more.png
 ---
 
-Make Jelly site have a GitBook look!
+살아온 만큼 살아가야 하는 길, 앞으로 어떤 일들이 벌어지고 어떻게 해야 하나?
 
-cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
-cover: https://pclnxt.github.io/assets/twilight_years_banner_slim.png
 
-## Demo
+## 새로운 하루
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
+어디서 누구를 만나고 어떤 액티비티를... 
 
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
+(정보, 트렌드, 리서치 자료 중심으로..)
 
-## Why Jekyll with GitBook
 
-GitBook is an amazing frontend style to present and organize contents (such as book chapters
-and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
-is building HTML files locally and then push to Github repository, usually to the `gh-pages`
-branch. It's quite annoying to repeat such workload and make it hard for people do version
-control via git for when there are generated HTML files to be staged in and out.
+## 어디서 살아갈 것인가
 
-This theme takes style definition out of generated GitBook site and provided the template
-for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
-to [Github Pages][1] without generating and uploading HTML bundle every time when there are
-changes to the original repo.
+전원주택? 실버타운... 그리고 언젠가 요양원
 
-## How to Get Started
+(각자의 여건과 선택지별 컨선 포인트를...)
 
-This theme can be used just as other [Jekyll themes][1] and support [remote theme][12],
-see [the official guide][13] as well.
 
-You can introduce this jekyll theme into your own site by either
+## 도움을 받고, 기여하는 공동체
 
-- [Fork][3] this repository and add your markdown posts to the `_posts` folder.
-- Use as a remote theme in your [`_config.yml`][14](just like what we do for this
-  site itself),
+불편함이 늘어가고 도움이 필요하지만, 아직 내가 할 수 있는 것들도...
 
-```yaml
-remote_theme: sighingnow/jekyll-gitbook
-```
+(사례들을...)
 
-### Deploy Locally with Jekyll Serve
 
-This theme can be ran locally using Ruby and Gemfiles.
-
-[Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) - GitHub
-
-## Full-text search
+## 어떻게 떠날 것인가
 
 The search functionality in jekyll-gitbook theme is powered by the [gitbook-plugin-search-pro][5] plugin and is enabled by default.
 
 [https://sighingnow.github.io/jekyll-gitbook/?q=generated](https://sighingnow.github.io/jekyll-gitbook/?q=generated)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Code highlight
 
