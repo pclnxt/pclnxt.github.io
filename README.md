@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: Knowledge Garden : 어서와 황혼은 처음이지?
 permalink: /
 cover: https://pclnxt.github.io/assets/twilight_years_top_trim_more.png
 ---
