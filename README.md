@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 어서와 황혼은 처음이지?
+title: Front Page
 permalink: /
 cover: https://pclnxt.github.io/assets/twilight_years_top_trim_more.png
 ---
