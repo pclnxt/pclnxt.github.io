@@ -2,7 +2,7 @@
 layout: home
 title: Jekyll Gitbook Theme
 permalink: /
-cover: https://pclnxt.github.io/assets/twilight_years_top.png
+cover: https://pclnxt.github.io/assets/twilight_years_top_trim_more.png
 ---
 
 Make Jelly site have a GitBook look!
